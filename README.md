@@ -1,6 +1,6 @@
 # Delatre Front End Assignment
 
-## Per the guidelines in the attached [ASSIGNMENT EXPECATION README](./EXPECTATION.md).
+## Per the guidelines in the attached [ASSIGNMENT EXPECATIONS README](./EXPECTATIONS.md).
 
 ### TASK - `I kindly ask you to describe in writing how would you develop task described in the assignment. This is not intended to be a full analysis of that case scenario, but a starting point for a discussion.`
 
